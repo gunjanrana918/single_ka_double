@@ -1,0 +1,31 @@
+class universaldata {
+  static String otp = "";
+  static String chkotp = "";
+  static String cid = "";
+  static String name = "";
+  static String loginid = "";
+  static String password = "";
+  static String confirmpassword = "";
+  static String oldpassword = "";
+  static String accountno = "";
+  static String bankname = "";
+  static String branchname = "";
+  static String bankifsccode = "";
+  static String city = "";
+  static String date = "";
+  static String walletbalance = "";
+  static String walletcoins = "";
+  static String gid = "";
+  static String gimage = "";
+  static String gname = "";
+  static String gdate = "";
+  static String gstime = "";
+  static String getime = "";
+  static String gcount = "";
+  static String bettingnumber = "";
+  static String bettingamount = "";
+  static String winnumber = "";
+  static String tempcoin = "";
+  static String wpaymentid = "";
+  static String coins = "";
+}
